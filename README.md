@@ -10,11 +10,11 @@ Users are able to:
 ### Screenshots
 
 #### Mobile version 
-![](images/Screenshot_mobile.png)
+![](Screenshot_mobile.png)
 
 
 #### Desktop version 
-![](images/Screenshot_desktop.png)
+![](Screenshot_desktop.png)
 
 ### Links
 
@@ -48,6 +48,6 @@ const helloFunc = () => {
 ```
 
 ## Author
-- Gmail - [@Haryordev](haryordev00123@gmail.com)
+
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
