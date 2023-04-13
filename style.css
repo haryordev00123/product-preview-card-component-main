@@ -51,7 +51,7 @@ p{
 }
 
 .product-details h2{
-  font-size:2rem;
+  font-size:2.3rem;
   margin: 10px 0;
 }
 
@@ -96,7 +96,7 @@ p{
 @media(min-width: 375px){
   .card-container{
     flex-direction: row;
-    width:550px;
+    width:560px;
     height: 440px;
   }
   .product-image{
