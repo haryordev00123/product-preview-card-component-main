@@ -18,8 +18,8 @@ Users are able to:
 
 ### Links
 
-- Solution URL: [https://your-solution-url.com](https://haryordev00123.github.io/product-preview-card-component-main/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: 
+- Live Site URL: [Live site](https://haryordev00123.github.io/product-preview-card-component-main/)
 
 ## My process
 
