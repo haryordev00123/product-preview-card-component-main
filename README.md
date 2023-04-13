@@ -16,9 +16,9 @@ Users are able to:
 #### Desktop version 
 ![](Screenshot_desktop.png)
 
-### Links
+### Link
 
-- Solution URL: 
+
 - Live Site URL: [Live site](https://haryordev00123.github.io/product-preview-card-component-main/)
 
 ## My process
